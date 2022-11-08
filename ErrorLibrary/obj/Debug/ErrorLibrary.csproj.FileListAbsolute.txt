@@ -1,0 +1,17 @@
+D:\HomeWork\dz_np\Calculator-master\ErrorLibrary\bin\Debug\ErrorLibrary.dll
+D:\HomeWork\dz_np\Calculator-master\ErrorLibrary\bin\Debug\ErrorLibrary.pdb
+D:\HomeWork\dz_np\Calculator-master\ErrorLibrary\obj\Debug\ErrorLibrary.csprojAssemblyReference.cache
+D:\HomeWork\dz_np\Calculator-master\ErrorLibrary\obj\Debug\ErrorLibrary.csproj.CoreCompileInputs.cache
+D:\HomeWork\dz_np\Calculator-master\ErrorLibrary\obj\Debug\ErrorLibrary.dll
+D:\HomeWork\dz_np\Calculator-master\ErrorLibrary\obj\Debug\ErrorLibrary.pdb
+F:\AutomationQA\Calculator-master-20220809T112325Z-001\Calculator-master\ErrorLibrary\bin\Debug\ErrorLibrary.dll
+F:\AutomationQA\Calculator-master-20220809T112325Z-001\Calculator-master\ErrorLibrary\bin\Debug\ErrorLibrary.pdb
+F:\AutomationQA\Calculator-master-20220809T112325Z-001\Calculator-master\ErrorLibrary\obj\Debug\ErrorLibrary.csproj.CoreCompileInputs.cache
+F:\AutomationQA\Calculator-master-20220809T112325Z-001\Calculator-master\ErrorLibrary\obj\Debug\ErrorLibrary.dll
+F:\AutomationQA\Calculator-master-20220809T112325Z-001\Calculator-master\ErrorLibrary\obj\Debug\ErrorLibrary.pdb
+C:\Users\User\Desktop\Автомати\Лаб 1\Calculator\ErrorLibrary\obj\Debug\ErrorLibrary.dll
+C:\Users\User\Desktop\Автомати\Лаб 1\Calculator\ErrorLibrary\obj\Debug\ErrorLibrary.pdb
+C:\Users\User\Desktop\Автомати\Лаб 1\Calculator\ErrorLibrary\bin\Debug\ErrorLibrary.dll
+C:\Users\User\Desktop\Автомати\Лаб 1\Calculator\ErrorLibrary\bin\Debug\ErrorLibrary.pdb
+C:\Users\User\Desktop\Автомати\Лаб 1\Calculator\ErrorLibrary\obj\Debug\ErrorLibrary.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Автомати\Лаб 1\Calculator\ErrorLibrary\obj\Debug\ErrorLibrary.csproj.CoreCompileInputs.cache

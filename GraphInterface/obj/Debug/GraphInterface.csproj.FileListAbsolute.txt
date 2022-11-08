@@ -1,0 +1,51 @@
+D:\HomeWork\dz_np\Calculator-master\GraphInterface\bin\Debug\GraphInterface.exe.config
+D:\HomeWork\dz_np\Calculator-master\GraphInterface\bin\Debug\GraphInterface.exe
+D:\HomeWork\dz_np\Calculator-master\GraphInterface\bin\Debug\GraphInterface.pdb
+D:\HomeWork\dz_np\Calculator-master\GraphInterface\bin\Debug\AnalizerClassLibrary.dll
+D:\HomeWork\dz_np\Calculator-master\GraphInterface\bin\Debug\CalcClassBr.dll
+D:\HomeWork\dz_np\Calculator-master\GraphInterface\bin\Debug\ErrorLibrary.dll
+D:\HomeWork\dz_np\Calculator-master\GraphInterface\bin\Debug\AnalizerClassLibrary.pdb
+D:\HomeWork\dz_np\Calculator-master\GraphInterface\bin\Debug\CalcClassBr.pdb
+D:\HomeWork\dz_np\Calculator-master\GraphInterface\bin\Debug\ErrorLibrary.pdb
+D:\HomeWork\dz_np\Calculator-master\GraphInterface\obj\Debug\GraphInterface.csprojAssemblyReference.cache
+D:\HomeWork\dz_np\Calculator-master\GraphInterface\obj\Debug\GraphInterface.Form1.resources
+D:\HomeWork\dz_np\Calculator-master\GraphInterface\obj\Debug\GraphInterface.Properties.Resources.resources
+D:\HomeWork\dz_np\Calculator-master\GraphInterface\obj\Debug\GraphInterface.csproj.GenerateResource.cache
+D:\HomeWork\dz_np\Calculator-master\GraphInterface\obj\Debug\GraphInterface.csproj.CoreCompileInputs.cache
+D:\HomeWork\dz_np\Calculator-master\GraphInterface\obj\Debug\GraphInterface.csproj.CopyComplete
+D:\HomeWork\dz_np\Calculator-master\GraphInterface\obj\Debug\GraphInterface.exe
+D:\HomeWork\dz_np\Calculator-master\GraphInterface\obj\Debug\GraphInterface.pdb
+F:\AutomationQA\Calculator-master-20220809T112325Z-001\Calculator-master\GraphInterface\bin\Debug\GraphInterface.exe.config
+F:\AutomationQA\Calculator-master-20220809T112325Z-001\Calculator-master\GraphInterface\bin\Debug\GraphInterface.exe
+F:\AutomationQA\Calculator-master-20220809T112325Z-001\Calculator-master\GraphInterface\bin\Debug\GraphInterface.pdb
+F:\AutomationQA\Calculator-master-20220809T112325Z-001\Calculator-master\GraphInterface\bin\Debug\AnalizerClassLibrary.dll
+F:\AutomationQA\Calculator-master-20220809T112325Z-001\Calculator-master\GraphInterface\bin\Debug\CalcClassBr.dll
+F:\AutomationQA\Calculator-master-20220809T112325Z-001\Calculator-master\GraphInterface\bin\Debug\ErrorLibrary.dll
+F:\AutomationQA\Calculator-master-20220809T112325Z-001\Calculator-master\GraphInterface\bin\Debug\AnalizerClassLibrary.pdb
+F:\AutomationQA\Calculator-master-20220809T112325Z-001\Calculator-master\GraphInterface\bin\Debug\CalcClassBr.pdb
+F:\AutomationQA\Calculator-master-20220809T112325Z-001\Calculator-master\GraphInterface\bin\Debug\ErrorLibrary.pdb
+F:\AutomationQA\Calculator-master-20220809T112325Z-001\Calculator-master\GraphInterface\obj\Debug\GraphInterface.csprojAssemblyReference.cache
+F:\AutomationQA\Calculator-master-20220809T112325Z-001\Calculator-master\GraphInterface\obj\Debug\GraphInterface.Form1.resources
+F:\AutomationQA\Calculator-master-20220809T112325Z-001\Calculator-master\GraphInterface\obj\Debug\GraphInterface.Properties.Resources.resources
+F:\AutomationQA\Calculator-master-20220809T112325Z-001\Calculator-master\GraphInterface\obj\Debug\GraphInterface.csproj.GenerateResource.cache
+F:\AutomationQA\Calculator-master-20220809T112325Z-001\Calculator-master\GraphInterface\obj\Debug\GraphInterface.csproj.CoreCompileInputs.cache
+F:\AutomationQA\Calculator-master-20220809T112325Z-001\Calculator-master\GraphInterface\obj\Debug\GraphInterface.csproj.CopyComplete
+F:\AutomationQA\Calculator-master-20220809T112325Z-001\Calculator-master\GraphInterface\obj\Debug\GraphInterface.exe
+F:\AutomationQA\Calculator-master-20220809T112325Z-001\Calculator-master\GraphInterface\obj\Debug\GraphInterface.pdb
+C:\Users\User\Desktop\Автомати\Лаб 1\Calculator\GraphInterface\obj\Debug\GraphInterface.exe
+C:\Users\User\Desktop\Автомати\Лаб 1\Calculator\GraphInterface\obj\Debug\GraphInterface.pdb
+C:\Users\User\Desktop\Автомати\Лаб 1\Calculator\GraphInterface\bin\Debug\GraphInterface.exe.config
+C:\Users\User\Desktop\Автомати\Лаб 1\Calculator\GraphInterface\bin\Debug\GraphInterface.exe
+C:\Users\User\Desktop\Автомати\Лаб 1\Calculator\GraphInterface\bin\Debug\GraphInterface.pdb
+C:\Users\User\Desktop\Автомати\Лаб 1\Calculator\GraphInterface\bin\Debug\AnalizerClassLibrary.dll
+C:\Users\User\Desktop\Автомати\Лаб 1\Calculator\GraphInterface\bin\Debug\CalcClassBr.dll
+C:\Users\User\Desktop\Автомати\Лаб 1\Calculator\GraphInterface\bin\Debug\ErrorLibrary.dll
+C:\Users\User\Desktop\Автомати\Лаб 1\Calculator\GraphInterface\bin\Debug\AnalizerClassLibrary.pdb
+C:\Users\User\Desktop\Автомати\Лаб 1\Calculator\GraphInterface\bin\Debug\CalcClassBr.pdb
+C:\Users\User\Desktop\Автомати\Лаб 1\Calculator\GraphInterface\bin\Debug\ErrorLibrary.pdb
+C:\Users\User\Desktop\Автомати\Лаб 1\Calculator\GraphInterface\obj\Debug\GraphInterface.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Автомати\Лаб 1\Calculator\GraphInterface\obj\Debug\GraphInterface.Form1.resources
+C:\Users\User\Desktop\Автомати\Лаб 1\Calculator\GraphInterface\obj\Debug\GraphInterface.Properties.Resources.resources
+C:\Users\User\Desktop\Автомати\Лаб 1\Calculator\GraphInterface\obj\Debug\GraphInterface.csproj.GenerateResource.cache
+C:\Users\User\Desktop\Автомати\Лаб 1\Calculator\GraphInterface\obj\Debug\GraphInterface.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Автомати\Лаб 1\Calculator\GraphInterface\obj\Debug\GraphInterface.csproj.CopyComplete

@@ -1,0 +1,33 @@
+D:\HomeWork\dz_np\Calculator-master\AnalizerClassLibrary\bin\Debug\AnalizerClassLibrary.dll
+D:\HomeWork\dz_np\Calculator-master\AnalizerClassLibrary\bin\Debug\AnalizerClassLibrary.pdb
+D:\HomeWork\dz_np\Calculator-master\AnalizerClassLibrary\bin\Debug\CalcClassBr.dll
+D:\HomeWork\dz_np\Calculator-master\AnalizerClassLibrary\bin\Debug\ErrorLibrary.dll
+D:\HomeWork\dz_np\Calculator-master\AnalizerClassLibrary\bin\Debug\CalcClassBr.pdb
+D:\HomeWork\dz_np\Calculator-master\AnalizerClassLibrary\bin\Debug\ErrorLibrary.pdb
+D:\HomeWork\dz_np\Calculator-master\AnalizerClassLibrary\obj\Debug\AnalizerClassLibrary.csprojAssemblyReference.cache
+D:\HomeWork\dz_np\Calculator-master\AnalizerClassLibrary\obj\Debug\AnalizerClassLibrary.csproj.CoreCompileInputs.cache
+D:\HomeWork\dz_np\Calculator-master\AnalizerClassLibrary\obj\Debug\AnalizerClassLibrary.csproj.CopyComplete
+D:\HomeWork\dz_np\Calculator-master\AnalizerClassLibrary\obj\Debug\AnalizerClassLibrary.dll
+D:\HomeWork\dz_np\Calculator-master\AnalizerClassLibrary\obj\Debug\AnalizerClassLibrary.pdb
+F:\AutomationQA\Calculator-master-20220809T112325Z-001\Calculator-master\AnalizerClassLibrary\bin\Debug\AnalizerClassLibrary.dll
+F:\AutomationQA\Calculator-master-20220809T112325Z-001\Calculator-master\AnalizerClassLibrary\bin\Debug\AnalizerClassLibrary.pdb
+F:\AutomationQA\Calculator-master-20220809T112325Z-001\Calculator-master\AnalizerClassLibrary\bin\Debug\CalcClassBr.dll
+F:\AutomationQA\Calculator-master-20220809T112325Z-001\Calculator-master\AnalizerClassLibrary\bin\Debug\ErrorLibrary.dll
+F:\AutomationQA\Calculator-master-20220809T112325Z-001\Calculator-master\AnalizerClassLibrary\bin\Debug\CalcClassBr.pdb
+F:\AutomationQA\Calculator-master-20220809T112325Z-001\Calculator-master\AnalizerClassLibrary\bin\Debug\ErrorLibrary.pdb
+F:\AutomationQA\Calculator-master-20220809T112325Z-001\Calculator-master\AnalizerClassLibrary\obj\Debug\AnalizerClassLibrary.csprojAssemblyReference.cache
+F:\AutomationQA\Calculator-master-20220809T112325Z-001\Calculator-master\AnalizerClassLibrary\obj\Debug\AnalizerClassLibrary.csproj.CoreCompileInputs.cache
+F:\AutomationQA\Calculator-master-20220809T112325Z-001\Calculator-master\AnalizerClassLibrary\obj\Debug\AnalizerClassLibrary.csproj.CopyComplete
+F:\AutomationQA\Calculator-master-20220809T112325Z-001\Calculator-master\AnalizerClassLibrary\obj\Debug\AnalizerClassLibrary.dll
+F:\AutomationQA\Calculator-master-20220809T112325Z-001\Calculator-master\AnalizerClassLibrary\obj\Debug\AnalizerClassLibrary.pdb
+C:\Users\User\Desktop\Автомати\Лаб 1\Calculator\AnalizerClassLibrary\obj\Debug\AnalizerClassLibrary.dll
+C:\Users\User\Desktop\Автомати\Лаб 1\Calculator\AnalizerClassLibrary\obj\Debug\AnalizerClassLibrary.pdb
+C:\Users\User\Desktop\Автомати\Лаб 1\Calculator\AnalizerClassLibrary\bin\Debug\AnalizerClassLibrary.dll
+C:\Users\User\Desktop\Автомати\Лаб 1\Calculator\AnalizerClassLibrary\bin\Debug\AnalizerClassLibrary.pdb
+C:\Users\User\Desktop\Автомати\Лаб 1\Calculator\AnalizerClassLibrary\bin\Debug\CalcClassBr.dll
+C:\Users\User\Desktop\Автомати\Лаб 1\Calculator\AnalizerClassLibrary\bin\Debug\ErrorLibrary.dll
+C:\Users\User\Desktop\Автомати\Лаб 1\Calculator\AnalizerClassLibrary\bin\Debug\CalcClassBr.pdb
+C:\Users\User\Desktop\Автомати\Лаб 1\Calculator\AnalizerClassLibrary\bin\Debug\ErrorLibrary.pdb
+C:\Users\User\Desktop\Автомати\Лаб 1\Calculator\AnalizerClassLibrary\obj\Debug\AnalizerClassLibrary.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Автомати\Лаб 1\Calculator\AnalizerClassLibrary\obj\Debug\AnalizerClassLibrary.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Автомати\Лаб 1\Calculator\AnalizerClassLibrary\obj\Debug\AnalizerClassLibrary.csproj.CopyComplete

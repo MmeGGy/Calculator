@@ -1,0 +1,27 @@
+D:\HomeWork\dz_np\Calculator-master\CalcClassBr\bin\Debug\CalcClassBr.dll
+D:\HomeWork\dz_np\Calculator-master\CalcClassBr\bin\Debug\CalcClassBr.pdb
+D:\HomeWork\dz_np\Calculator-master\CalcClassBr\bin\Debug\ErrorLibrary.dll
+D:\HomeWork\dz_np\Calculator-master\CalcClassBr\bin\Debug\ErrorLibrary.pdb
+D:\HomeWork\dz_np\Calculator-master\CalcClassBr\obj\Debug\CalcClassBr.csprojAssemblyReference.cache
+D:\HomeWork\dz_np\Calculator-master\CalcClassBr\obj\Debug\CalcClassBr.csproj.CoreCompileInputs.cache
+D:\HomeWork\dz_np\Calculator-master\CalcClassBr\obj\Debug\CalcClassBr.csproj.CopyComplete
+D:\HomeWork\dz_np\Calculator-master\CalcClassBr\obj\Debug\CalcClassBr.dll
+D:\HomeWork\dz_np\Calculator-master\CalcClassBr\obj\Debug\CalcClassBr.pdb
+F:\AutomationQA\Calculator-master-20220809T112325Z-001\Calculator-master\CalcClassBr\bin\Debug\CalcClassBr.dll
+F:\AutomationQA\Calculator-master-20220809T112325Z-001\Calculator-master\CalcClassBr\bin\Debug\CalcClassBr.pdb
+F:\AutomationQA\Calculator-master-20220809T112325Z-001\Calculator-master\CalcClassBr\bin\Debug\ErrorLibrary.dll
+F:\AutomationQA\Calculator-master-20220809T112325Z-001\Calculator-master\CalcClassBr\bin\Debug\ErrorLibrary.pdb
+F:\AutomationQA\Calculator-master-20220809T112325Z-001\Calculator-master\CalcClassBr\obj\Debug\CalcClassBr.csprojAssemblyReference.cache
+F:\AutomationQA\Calculator-master-20220809T112325Z-001\Calculator-master\CalcClassBr\obj\Debug\CalcClassBr.csproj.CoreCompileInputs.cache
+F:\AutomationQA\Calculator-master-20220809T112325Z-001\Calculator-master\CalcClassBr\obj\Debug\CalcClassBr.csproj.CopyComplete
+F:\AutomationQA\Calculator-master-20220809T112325Z-001\Calculator-master\CalcClassBr\obj\Debug\CalcClassBr.dll
+F:\AutomationQA\Calculator-master-20220809T112325Z-001\Calculator-master\CalcClassBr\obj\Debug\CalcClassBr.pdb
+C:\Users\User\Desktop\Автомати\Лаб 1\Calculator\CalcClassBr\obj\Debug\CalcClassBr.dll
+C:\Users\User\Desktop\Автомати\Лаб 1\Calculator\CalcClassBr\obj\Debug\CalcClassBr.pdb
+C:\Users\User\Desktop\Автомати\Лаб 1\Calculator\CalcClassBr\bin\Debug\CalcClassBr.dll
+C:\Users\User\Desktop\Автомати\Лаб 1\Calculator\CalcClassBr\bin\Debug\CalcClassBr.pdb
+C:\Users\User\Desktop\Автомати\Лаб 1\Calculator\CalcClassBr\bin\Debug\ErrorLibrary.dll
+C:\Users\User\Desktop\Автомати\Лаб 1\Calculator\CalcClassBr\bin\Debug\ErrorLibrary.pdb
+C:\Users\User\Desktop\Автомати\Лаб 1\Calculator\CalcClassBr\obj\Debug\CalcClassBr.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Автомати\Лаб 1\Calculator\CalcClassBr\obj\Debug\CalcClassBr.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Автомати\Лаб 1\Calculator\CalcClassBr\obj\Debug\CalcClassBr.csproj.CopyComplete

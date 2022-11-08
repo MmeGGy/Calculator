@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Operations>
+	<Operation expr_1 = "30" expr_2 = "5" exp = "25"/>
+	<Operation expr_1 = "-3" expr_2 = "4" exp = "-7"/>
+	<Operation expr_1 = "-2" expr_2 = "-20" exp = "18"/>
+	<Operation expr_1 = "2147483948" expr_2 = "5" exp = "Error 06 — Дуже мале, або дуже велике значення числа для int. Числа повинні бути в межах від -2 147 483 648 до 2 147 483 647."/>
+	<Operation expr_1 = " -2147483648" expr_2 = "4" exp = "Error 06 — Дуже мале, або дуже велике значення числа для int. Числа повинні бути в межах від -2 147 483 648 до 2 147 483 647."/>
+</Operations>
